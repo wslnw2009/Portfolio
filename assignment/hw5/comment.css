@@ -1,0 +1,35 @@
+body{
+    background-color: blanchedalmond;
+}
+textarea{
+    background-color: burlywood;
+    margin-left: 42.5%;
+    width: 300px;
+    height: 100px;
+}
+#alert{
+    background-color: cadetblue;
+    text-align: center;
+    
+}
+
+h4{
+    font-size: 30px;
+    width: 200px;
+    background-color: cornsilk;
+    text-align: center;
+    margin-left: 45%;
+}
+
+#topic1{
+    flex-direction: column;
+}
+#buttononclick{
+    
+    margin-left: 48%;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: darkcyan;
+}

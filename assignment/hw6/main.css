@@ -1,0 +1,16 @@
+body{
+   background-color: beige;
+   font-family: fantasy;
+   font-size: 25px;
+   color: black; 
+   text-align: center;
+}
+#regisform{
+    background-color: bisque;
+}
+#topic{
+    font-size: 60px;
+}
+#Loginform{
+    background-color: bisque;
+}
